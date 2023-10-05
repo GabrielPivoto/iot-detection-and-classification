@@ -1,0 +1,7 @@
+# ML-based Novelty Detection and Classification of Security Threats in IoT Networks
+
+Paper submitted to the XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2023, 08--11 de Outubro de 2023, São José Dos Campos, SP.
+
+Authors: Marcelo V. C. Aragão (Inatel), Gabriel P. Ambrósio (Inatel), and Felipe A. P. de Figueiredo (Inatel).
+
+Abstract: This article presents a practical evaluation of machine-learning models to detect novelties and classify threats in IoT networks using an ML-based approach. Given the escalating significance of analyzing network traffic amidst the proliferation of devices and sensitive data exchange, this research holds significant relevance. The IoT Network Intrusion dataset was chosen for experimentation, followed by data processing and imbalance handling techniques. Four distinct models encompassing novelty detection and classification were trained, allowing for an in-depth comparison of their performance in terms of accuracy and time. Notably, after attaining the results, it was evident that these models achieved remarkably high accuracy in novelty detection and classification tasks, emphasizing that techniques based on machine learning can be successfully applied to this context.
